@@ -310,7 +310,6 @@ gantt
 
 **"Building the decentralized future, one block at a time."**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/BELALZEDAN/portfolio)
 [![Email Me](https://img.shields.io/badge/Email_Me-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belalzedan72@gmail.com)
 
 ### ⭐ If you find my work interesting, consider giving a star to my repositories!
