@@ -135,12 +135,11 @@ Scalable RESTful API for e-commerce with authentication, validation, and perform
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=belalzedan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=belalzedan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=belalzedan&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=belalzedan&layout=compact&theme=tokyonight)
+
 
 <div align="center">
   
@@ -315,7 +314,7 @@ gantt
 
 ### ⭐ If you find my work interesting, consider giving a star to my repositories!
 
-![Visitor Count](https://profile-counter.glitch.me/belalzedan/count.svg)
+![Visitors](https://komarev.com/ghpvc/?username=belalzedan&color=blue&style=flat-square)
 
 </div>
 
